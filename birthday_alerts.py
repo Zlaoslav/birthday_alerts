@@ -13,7 +13,7 @@ Birthday Alerts
     add_to_autorun: Добавить программу в автозапуск.
     remove_from_autorun: Удалить программу из автозапуска.
 """
-
+# source: https://github.com/Zlaoslav/birthday_alerts
 from pathlib import Path
 import json
 import datetime
